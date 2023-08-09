@@ -8,27 +8,25 @@ redirect_from:
   - /about.html
 ---
 
+I'm an Incident Analyst at Indeed Technologies Japan, PhD student at The University of Tokyo under [Takashi Ikegami](https://www.sacral.c.u-tokyo.ac.jp/), and external researcher at [Cross Labs](https://www.crosslabs.org/). I'm also an independent author, musician, artist, and developer. Most importantly, I'm a husband, father, and follower of Jesus Christ. I'm currently in the process of collecting my projects together in one place.
 
+My intersts include collective intelligence, artificial life (and death), adaptive capacity, resilience, cultural evolution, evolvability, risk taking, decision making under uncertainty, and philosophy of science.
 
+# ![Minds and Thoughts](/images/mindsandthoughts.jpg)
 
+**Evolvability and Meta-Evolution**
+The study of life is very often tied to the study of evolution and by association the study of fitness. Creatures which more successfully survive and reproduce give rise to progeny which follow suit - up to certain limits. Changes in the environment may make populations which were once fit no longer so, and their future fitness will be determined by their evolvability. Somewhat related, creatures can obtain new attributes, skills, or tools over the course of their lives in a way which modifies their own personal fitness function. We seek to explore these concepts, examining fitness in dynamic environments changed by external and "internal" forces.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Neural Cellular Automata in Games**
+While there have been some variations depending on genre or "character type", we find that most games converge to a similar representation of "life" within their mechanics. Neural Cellular Automata, being from the same family of concepts as Conway's Game of Life (one of the first zero-player games), represent a way to more fully express life within video game settings and innovate new game mechanics or gameplay loops. These have the potential to fundamentally reshape the interactions between player and game.
 
+**Cognitive Studies of Incident Response**
+Incident response in online software environments are excellent examples of system expertise and adaptive capacity applied to complex, dynamic environments. By studying how responders prepare, adapt, and reflect, we can tease out patterns and more universal principles. This is extended when considering responders as a system themselves, comprising not just human agents but also tools, automation, artificial intelligence, and other digital technologies. Such considerations can also be expanded to collaboration across agents, across time, and across abstraction layers.
 
-**Markdown generator**
+**Artificial Death and Inter-Generational Information Transmission**
+Death goes hand-in-hand with mortal life, and in many cultures and conceptions is defined by it. In order to understand *artificial* life, then, we must understand artificial life and its implications. First and foremost worth considering are the effects of death on the collective. Sharing stories about danger and death is fundamental to many cultures, and indeed promotes survival and exploration in future generations. This conceptual foundation allows us to explore the legacy of an agent and its enduring effects on the collective once it is gone.
 
+Recent News
+===========
 
-
-Example: editing a markdown file for a talk
-# ![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-
+<b>August '23: </b> I've finished my whirlwind conference tour for this summer. I will be blogging about the experience soon.

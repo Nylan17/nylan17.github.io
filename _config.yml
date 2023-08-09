@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tanner Lund"
   avatar           : "profile.jpg"
-  bio              : "Researcher, Engineer, Artist, Author, Madman"
+  bio              : "Madman"
   location         : "Tokyo, JP"
   employer         : "Indeed Technologies Japan"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -110,7 +110,6 @@ author:
   steam            :
   tumblr           :
   twitter          : "101010lund"
-  vine             :
   weibo            :
   xing             :
   youtube          :
