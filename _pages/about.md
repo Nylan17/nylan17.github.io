@@ -36,7 +36,8 @@ Death goes hand-in-hand with mortal life, and in many cultures and conceptions i
 
 Cognitive Studies of Incident Response
 ------
-![FRAM of An Incident Response Process](/images/fram.jpg)
+![FRAM of An Incident Response Process](/images/fram.JPG)
+
 Incident response in online software environments is an excellent example of system expertise and adaptive capacity applied to complex, dynamic environments. By studying how responders prepare, adapt, and reflect, we can tease out patterns and more universal principles. This is extended when considering responders as a system themselves, comprising not just human agents but also tools, automation, artificial intelligence, and other digital technologies. Such considerations can also be expanded to collaboration across agents, across time, and across abstraction layers.
 
 
