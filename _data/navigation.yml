@@ -15,6 +15,12 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
+  - title: "Medium"
+    url: "https://medium.com/@ballpointscimitar"
+
+  - title: "Substack"
+    url: "https://rollthebones.substack.com/"
+
   - title: "CV"
     url: /cv/
     
