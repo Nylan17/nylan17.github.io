@@ -1,6 +1,6 @@
 ---
 title: "Notes on Complexity: In Life and Machines"
-excerpt: "This book is the introduction of the first 3 years of notes on the subjects of complexity, decision making under uncertainty, risk taking, learning from failure, human factors, and system safety<br/><img src='/images/bookcover.png'>"
+excerpt: "This book is the introduction of 3 years of notes on the subjects of complexity, decision making under uncertainty, risk taking, learning from failure, human factors, and system safety<br/><img src='/images/bookcover.png'>"
 collection: portfolio
 ---
 [![Book cover](/images/bookcover.png)](https://leanpub.com/notesoncomplexity)
