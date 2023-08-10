@@ -43,4 +43,4 @@ Incident response in online software environments is an excellent example of sys
 Recent News
 ===========
 
-<b>August '23: </b> I've finished my whirlwind conference tour for this summer. I will be blogging about the experience soon.
+<b>August '23: </b> I've finished my whirlwind conference tour for this summer, which spanned SE Asia, North America, Southern Europe, and Northern Japan. I gave 2 talks and separately 2 of my papers were presented. I managed to mix in some visits home to family (and a track day at Road Atlanta) as well! A good end to the first year of a new era.
