@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Incident Analyst at Indeed Technologies Japan, PhD student at The University of Tokyo under [Takashi Ikegami](https://www.sacral.c.u-tokyo.ac.jp/), and external researcher at [Cross Labs](https://www.crosslabs.org/). I'm also an independent author, musician, artist, and developer. Most importantly, I'm a husband, father, and follower of Jesus Christ. I'm currently in the process of collecting my projects together in one place.
+I'm an Incident Analyst at Indeed Technologies Japan, a PhD student at The University of Tokyo under [Takashi Ikegami](https://www.sacral.c.u-tokyo.ac.jp/), and external researcher at [Cross Labs](https://www.crosslabs.org/). I'm also an independent author, musician, artist, and developer. Most importantly, I'm a husband, father, and follower of Jesus Christ. I'm currently in the process of collecting my projects together in one place.
 
 My intersts include collective intelligence, artificial life (and death), adaptive capacity, resilience, cultural evolution, evolvability, risk taking, decision making under uncertainty, and philosophy of science.
 
