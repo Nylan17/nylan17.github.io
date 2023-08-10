@@ -1,10 +1,7 @@
 ---
-permalink: /notesoncomplexity/
 title: "Notes on Complexity: In Life and Machines"
-author_profile: true
-redirect_from: 
-  - /notesoncomplexity/
-  - /notesoncomplexity.html
+excerpt: "This book is the introduction of the first 3 years of notes on the subjects of complexity, decision making under uncertainty, risk taking, learning from failure, human factors, and system safety<br/><img src='/images/bookcover.png'>"
+collection: portfolio
 ---
 [![Book cover](/images/bookcover.png)](https://leanpub.com/notesoncomplexity)
 
