@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : "https://mastodon.sdf.org/@101010lund"
+  username               : "mastodon.sdf.org/@101010lund"
 twitter:
   username               : &twitter
 facebook:
@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  mastodon         : "https://mastodon.sdf.org/@101010lund"
+  mastodon         : "mastodon.sdf.org/@101010lund"
   medium           : "https://medium.com/@ballpointscimitar"
   substack         : "https://rollthebones.substack.com/"
 
