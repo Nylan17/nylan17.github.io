@@ -67,10 +67,12 @@ My work spans the intersection of research and engineering, combining deep techn
 
 Recent News
 ===========
+<b>October '25:</b> I presented a poster on my [swarm reservoir computing research](/_talks/2025-10-07-swarmrc.md) at [ALIFE 2025](https://2025.alife.org/). This is the core of a future journal article (currently in review).
+
+<b>September '25:</b> Welcomed our newest family member! Family continues to be the foundation that makes all other work possible and meaningful.
+
 <b>March '25:</b> Visited Austin, Texas for the first time for an Indeed all-site gathering with my work team. Great to connect with colleagues in person and see a new part of the US including corporate HQ.
 
 <b>Rest of '24:</b> I received an ALIFE Future Talent Fellowship, and therefore I focused intensely on developing novel computational approaches using collective behavior systems. This research year involved deep technical development and implementation work and left little time for conference talks, blog posts, international travel, or anything else really.
 
 <b>Spring '24:</b>  Continuing to develop proficiency in Japanese while living in Tokyo, and achieved intermediate (B1) level French through intensive study including a month-long program in Tours, France. I now maintain various fluency levels across four languages, supporting both research collaboration and international work. I should deepen them further before adding Latin, probably...
-
-<b>October '23:</b> Welcomed our newest family member! Family continues to be the foundation that makes all other work possible and meaningful.
