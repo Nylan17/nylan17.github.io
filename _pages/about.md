@@ -67,6 +67,8 @@ My work spans the intersection of research and engineering, combining deep techn
 
 Recent News
 ===========
+<b>February '26:</b> I built [LexiAtlas](https://www.lexiatlas.org/) as a successor to the (now defunct) Lexicity: a community-maintained index of resources for ancient and historical languages.
+
 <b>October '25:</b> I presented a poster on my [swarm reservoir computing research](/_talks/2025-10-07-swarmrc.md) at [ALIFE 2025](https://2025.alife.org/). This is the core of a future journal article (currently in review).
 
 <b>September '25:</b> Welcomed our newest family member! Family continues to be the foundation that makes all other work possible and meaningful.
