@@ -8,7 +8,7 @@ LexiAtlas is a community-maintained index of resources for ancient and historica
 
 I built LexiAtlas as a successor to the (now defunct) Lexicity, and I serve as its creator and maintainer.
 
-- Site: https://www.lexiatlas.org/
-- Search: https://www.lexiatlas.org/search/
-- Contribute / link updates: https://www.lexiatlas.org/contribute/
+- [Site](https://www.lexiatlas.org/)
+- [Search](https://www.lexiatlas.org/search/)
+- [Contribute / link updates](https://www.lexiatlas.org/contribute/)
 

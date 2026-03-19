@@ -8,5 +8,5 @@ Strategic Archive is a curation project: an archive of no-commentary RTS mission
 
 I’m the owner/operator and curator.
 
-- Channel: https://www.youtube.com/@strategicarchive
+- [Channel](https://www.youtube.com/@strategicarchive)
 
