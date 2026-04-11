@@ -2,6 +2,8 @@
 title: "LexiAtlas"
 excerpt: "Community-maintained index of resources for ancient & historical languages (successor to the defunct Lexicity)."
 collection: portfolio
+header:
+  teaser: portfolio/lexiatlas.png
 ---
 
 LexiAtlas is a community-maintained index of resources for ancient and historical languages — grammars, dictionaries, texts, and learning material — organized by language and kept current through community link updates.

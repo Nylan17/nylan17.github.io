@@ -67,6 +67,8 @@ My work spans the intersection of research and engineering, combining deep techn
 
 Recent News
 ===========
+<b>April '26:</b> I launched [Swarm Studio: Reservoirs](https://swarmstudio.tannerlund.dev/), an interactive browser-based experiment for exploring swarm reservoir computing through sound, signal input, and collective traces, based on my work on how state transitions unlock temporal memory in swarm-based reservoir computing.
+
 <b>March '26:</b> I built [Genealogy Map](https://genealogy-map.tannerlund.dev/) — a browser-based tool that lets you upload a GEDCOM family tree file and visualize your ancestors on an interactive map. Your data stays in your browser.
 
 <b>February '26:</b> I built [LexiAtlas](https://www.lexiatlas.org/) as a successor to the (now defunct) Lexicity: a community-maintained index of resources for ancient and historical languages.
