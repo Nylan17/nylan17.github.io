@@ -9,14 +9,14 @@ redirect_from:
 ---
 # ![Minds and Thoughts](/images/mindsandthoughts.jpg)
 
-I'm an Incident Analyst at Indeed Technologies Japan, a PhD student at The University of Tokyo under [Takashi Ikegami](https://www.sacral.c.u-tokyo.ac.jp/), and external researcher at [Cross Labs](https://www.crosslabs.org/). I'm also an independent author, musician, artist, and developer. Most importantly, I'm a husband, father, and disciple of Jesus Christ.
+I'm an Incident Analyst at Indeed Technologies Japan, where I work on incident analysis and resilience in complex software systems. I recently completed my PhD defense at The University of Tokyo under [Takashi Ikegami](https://www.sacral.c.u-tokyo.ac.jp/), with the degree expected to be formally awarded in May 2026, and I continue as an external researcher at [Cross Labs](https://www.crosslabs.org/). I'm also an independent author, musician, artist, and developer. Most importantly, I'm a husband, father, and disciple of Jesus Christ.
 
-My research focuses on computational approaches to collective intelligence, complex adaptive systems, and practical applications of bio-inspired computing. I develop novel methodologies that bridge theoretical understanding with real-world problem solving in areas including reservoir computing, artificial life, cultural evolution, decision making under uncertainty, and resilience analysis.
+My research sits at the intersection of collective intelligence, artificial life, reservoir computing, and resilient sociotechnical systems. I'm especially interested in how simple interacting parts produce memory, adaptability, and useful computation, and in how those ideas translate back into the design and analysis of real software systems.
 
 Collective Behavior Systems for Computational Tasks
 ------
 ![Boid Swarms](https://cdn.prod.website-files.com/5e338abdcf951ffb0e1fadb1/668a533557f343512dda931e_flock-1080x720.gif)
-I'm developing novel computational approaches using collective behavior systems, particularly focusing on swarm-based reservoir computing architectures. This work explores how emergent dynamics in multi-agent systems can be harnessed for machine learning tasks, creating bio-inspired computational substrates that exhibit rich temporal dynamics and memory properties. The research combines theory from artificial life with practical applications in time-series prediction, pattern recognition, and adaptive computation. See our [ALIFE 2025 poster](/talks/2025-10-07-swarmrc) on state transitions and temporal memory in swarm-based reservoir computing.
+I'm developing computational approaches that use collective behavior itself as a substrate for computation, especially through swarm-based reservoir computing. In my new [PeerJ Computer Science paper](https://peerj.com/articles/cs-3763/), we show that adding simple state transitions to a swarm can unlock substantial temporal memory and produce a clear linear scaling law between memory capacity and swarm size. More broadly, this line of work explores how emergent multi-agent dynamics can become practical, interpretable computational media for time-dependent tasks. You can also see the earlier [ALIFE 2025 poster](/talks/2025-10-07-swarmrc) that led into the paper.
 
 
 Evolvability and Meta-Evolution
@@ -43,7 +43,7 @@ Cognitive Studies of Incident Response
 ------
 ![FRAM of An Incident Response Process](/images/fram.JPG)
 
-Incident response in online software environments is an excellent example of system expertise and adaptive capacity applied to complex, dynamic environments. By studying how responders prepare, adapt, and reflect, we can tease out patterns and more universal principles. This is extended when considering responders as a system themselves, comprising not just human agents but also tools, automation, artificial intelligence, and other digital technologies. Such considerations can also be expanded from collaboration across agents to collaboration across time and across abstraction layers. See our [SREcon23 APAC tutorial](/talks/2023-06-15-fram) on Functional Resonance Analysis for diagramming complex systems.
+Incident response in online software environments is an excellent example of system expertise and adaptive capacity applied to complex, dynamic environments. By studying how responders prepare, adapt, and reflect, we can tease out patterns and more universal principles. This is extended when considering responders as a system themselves, comprising not just human agents but also tools, automation, artificial intelligence, and other digital technologies. Such considerations can also be expanded from collaboration across agents to collaboration across time and across abstraction layers. See my [SREcon23 APAC tutorial](/talks/2023-06-15-fram) on Functional Resonance Analysis for diagramming complex systems.
 
 Technical Leadership & Capabilities
 ===========
@@ -67,13 +67,15 @@ My work spans the intersection of research and engineering, combining deep techn
 
 Recent News
 ===========
+<b>April '26:</b> My paper, [State transitions unlock temporal memory in swarm-based reservoir computing](https://peerj.com/articles/cs-3763/), was published in <i>PeerJ Computer Science</i>.
+
 <b>April '26:</b> I launched [Swarm Studio: Reservoirs](https://swarmstudio.tannerlund.dev/), an interactive browser-based experiment for exploring swarm reservoir computing through sound, signal input, and collective traces, based on my work on how state transitions unlock temporal memory in swarm-based reservoir computing.
 
 <b>March '26:</b> I built [Genealogy Map](https://genealogy-map.tannerlund.dev/) — a browser-based tool that lets you upload a GEDCOM family tree file and visualize your ancestors on an interactive map. Your data stays in your browser.
 
 <b>February '26:</b> I built [LexiAtlas](https://www.lexiatlas.org/) as a successor to the (now defunct) Lexicity: a community-maintained index of resources for ancient and historical languages.
 
-<b>October '25:</b> I presented a poster on my [swarm reservoir computing research](/_talks/2025-10-07-swarmrc.md) at [ALIFE 2025](https://2025.alife.org/). This is the core of a future journal article (currently in review).
+<b>October '25:</b> I presented a poster on my [swarm reservoir computing research](/talks/2025-10-07-swarmrc) at [ALIFE 2025](https://2025.alife.org/), which later developed into my 2026 <i>PeerJ Computer Science</i> paper.
 
 <b>September '25:</b> Welcomed our newest family member! Family continues to be the foundation that makes all other work possible and meaningful.
 

@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Information Technology, Brigham Young University, 2015
 * M.S. in Computer Science, Georgia Institute of Technology, 2019
-* Ph.D in Artificial Life, The University of Tokyo, 2025 (expected)
+* Ph.D. in Artificial Life, The University of Tokyo, 2026 (defense completed March 2026; degree expected May 2026)
 
 Work experience
 ======
@@ -56,7 +56,7 @@ Work experience
     * Incident retrospective facilitation and training
     * Research on complex socio-technical systems and infrastructure reliability/adaptability
 
-* 2022 - Current: Staff Incident Analyst
+* 2022 - Present: Staff Incident Analyst
   * Indeed Technologies Japan
 
 
@@ -94,4 +94,4 @@ Teaching
   
 Service and leadership
 ======
-* Active member of church lay ministry. Sunday school president.
+* Active member of church lay ministry.
