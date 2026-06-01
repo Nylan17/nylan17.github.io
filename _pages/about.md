@@ -9,14 +9,14 @@ redirect_from:
 ---
 # ![Minds and Thoughts](/images/mindsandthoughts.jpg)
 
-I'm an Incident Analyst at Indeed Technologies Japan, where I work on incident analysis and resilience in complex software systems. I recently completed my PhD defense at The University of Tokyo under [Takashi Ikegami](https://www.sacral.c.u-tokyo.ac.jp/), with the degree expected to be formally awarded in May 2026, and I continue as an external researcher at [Cross Labs](https://www.crosslabs.org/). I'm also an independent author, musician, artist, and developer. Most importantly, I'm a husband, father, and disciple of Jesus Christ.
+I'm an Incident Analyst at Indeed Technologies Japan, where I work on incident analysis and resilience in complex software systems. I earned my Ph.D. in Artificial Life from The University of Tokyo in May 2026, working under [Takashi Ikegami](https://www.sacral.c.u-tokyo.ac.jp/), and I continue as an external researcher at [Cross Labs](https://www.crosslabs.org/). I'm also an independent author, musician, artist, and developer. Most importantly, I'm a husband, father, and disciple of Jesus Christ.
 
-My research sits at the intersection of collective intelligence, artificial life, reservoir computing, and resilient sociotechnical systems. I'm especially interested in how simple interacting parts produce memory, adaptability, and useful computation, and in how those ideas translate back into the design and analysis of real software systems.
+My research sits at the intersection of collective intelligence, artificial life, reservoir computing, and resilient sociotechnical systems. My dissertation, *Collective Nonlinear Dynamics in Heterogeneous Swarms: A Reservoir Computing Perspective*, studied how heterogeneous collective systems can produce memory and useful computation. More broadly, I'm interested in how simple interacting parts produce adaptability, and in how those ideas translate back into the design and analysis of real software systems.
 
 Collective Behavior Systems for Computational Tasks
 ------
 ![Boid Swarms](https://cdn.prod.website-files.com/5e338abdcf951ffb0e1fadb1/668a533557f343512dda931e_flock-1080x720.gif)
-I'm developing computational approaches that use collective behavior itself as a substrate for computation, especially through swarm-based reservoir computing. In my new [PeerJ Computer Science paper](https://peerj.com/articles/cs-3763/), we show that adding simple state transitions to a swarm can unlock substantial temporal memory and produce a clear linear scaling law between memory capacity and swarm size. More broadly, this line of work explores how emergent multi-agent dynamics can become practical, interpretable computational media for time-dependent tasks. You can also see the earlier [ALIFE 2025 poster](/talks/2025-10-07-swarmrc) that led into the paper.
+I'm developing computational approaches that use collective behavior itself as a substrate for computation, especially through swarm-based reservoir computing. In my [PeerJ Computer Science paper](https://peerj.com/articles/cs-3763/), which formed part of my Ph.D. dissertation, we show that adding simple state transitions to a swarm can unlock substantial temporal memory and produce a clear linear scaling law between memory capacity and swarm size. More broadly, this line of work explores how emergent multi-agent dynamics can become practical, interpretable computational media for time-dependent tasks. You can also see the earlier [ALIFE 2025 poster](/talks/2025-10-07-swarmrc) that led into the paper.
 
 
 Evolvability and Meta-Evolution
@@ -67,6 +67,8 @@ My work spans the intersection of research and engineering, combining deep techn
 
 Recent News
 ===========
+<b>May '26:</b> My Ph.D. in Artificial Life was conferred by The University of Tokyo. My dissertation is titled [*Collective Nonlinear Dynamics in Heterogeneous Swarms: A Reservoir Computing Perspective*](/publication/2026-05-01-collective-nonlinear-dynamics).
+
 <b>April '26:</b> My paper, [State transitions unlock temporal memory in swarm-based reservoir computing](https://peerj.com/articles/cs-3763/), was published in <i>PeerJ Computer Science</i>.
 
 <b>April '26:</b> I launched [Swarm Studio: Reservoirs](https://swarmstudio.tannerlund.dev/), an interactive browser-based experiment for exploring swarm reservoir computing through sound, signal input, and collective traces, based on my work on how state transitions unlock temporal memory in swarm-based reservoir computing.

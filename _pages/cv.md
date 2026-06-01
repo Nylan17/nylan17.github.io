@@ -13,7 +13,9 @@ Education
 ======
 * B.S. in Information Technology, Brigham Young University, 2015
 * M.S. in Computer Science, Georgia Institute of Technology, 2019
-* Ph.D. in Artificial Life, The University of Tokyo, 2026 (defense completed March 2026; degree expected May 2026)
+* Ph.D. in Artificial Life, The University of Tokyo, 2026 (degree conferred May 2026)
+  * Dissertation: *Collective Nonlinear Dynamics in Heterogeneous Swarms: A Reservoir Computing Perspective*
+  * Supervisor: Takashi Ikegami
 
 Work experience
 ======
@@ -76,7 +78,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

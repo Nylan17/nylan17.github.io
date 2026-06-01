@@ -8,7 +8,7 @@ venue: 'PeerJ Computer Science'
 paperurl: 'https://doi.org/10.7717/peerj-cs.3763'
 citation: 'Lund, T., Adams, A., Aubert-Kato, N., & Ikegami, T. (2026). State transitions unlock temporal memory in swarm-based reservoir computing. <i>PeerJ Computer Science</i>, 12:e3763. https://doi.org/10.7717/peerj-cs.3763'
 ---
-This paper studies swarm-based reservoir computing with a focus on temporal memory rather than single-task forecasting. We show that introducing simple state transitions between dispersed and clustered behavior unlocks substantial temporal memory in the swarm and yields a clear linear scaling law between memory capacity and swarm size across the tested regime.
+This paper studies swarm-based reservoir computing with a focus on temporal memory rather than single-task forecasting. It formed part of my Ph.D. dissertation, *Collective Nonlinear Dynamics in Heterogeneous Swarms: A Reservoir Computing Perspective*. We show that introducing simple state transitions between dispersed and clustered behavior unlocks substantial temporal memory in the swarm and yields a clear linear scaling law between memory capacity and swarm size across the tested regime.
 
 The work also provides a practical GPU-ready implementation recipe and helps clarify when multi-agent collectives can function as useful computational substrates.
 
